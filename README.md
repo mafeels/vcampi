@@ -9,4 +9,3 @@ Leonardo Forti Christofoletti - Idealização, Design, Pesquisa de Informações
 Mairon Elme da Silva - Idealização, Design, Pesquisa de Informações <br/>
 Matheus João da Silva Alves - Programação <br/>
 Pedro Gomes Siega - Programação, Design <br/>
-Tomas - Design <br/>
