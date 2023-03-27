@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 1,
+        "tipo": "lazer",
+        "nome": "Casa do Lago",
+        "locais_Proximos": ["IG", "Correios"],
+        "sobre": "Local conde ocorrem exposições de arte, mostras de cinema, concertos, recitais, cursos, oficinas, palestras, acolhe apresentações artísticas diversas e eventos institucionais. ",
+        "endereço":"Av. Érico Veríssimo, 1011 - Cidade Universitária, Camkeyas - SP, 13083-851",
+        "telefone": "(19) 3521-1708",
+        "site": "https://www.casadolago.proec.unicamp.br/",
+        "horario": "Segunda a Sexta (08:30 às 19h)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.06882178819873,-22.81223567420145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 2,
+        "tipo": "lazer",
+        "nome": "MUSEU EXPLORATÓRIO DE CIÊNCIAS",
+        "locais_Proximos": ["FACAMP", "Feagri"],
+        "sobre": "Museu de Ciências que além de possuir diversos objetos interativos relacionados a campos como física, geografia e matemática, também realiza oficinas presenciais e onlines para crianças e jovens. Também é conhecido por ser o mirante da Cidade Universitária.",
+        "endereço":"Av. Alan Turing, 1500 - Cidade Universitária, Campinas - SP, 13083-898",
+        "telefone": ["+55 19 3521.1811", "+55 19 3521.1816", "+55 19 99606.8615 (Whatsapp)"],
+        "horario": "Segunda a Domingo (8h às 19h)"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.0575673156266, -22.8147877174068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 3,
+        "tipo": "lazer",
+        "nome": "Teatro de Arena",
+        "locais_Proximos": ["DAC", "BCCL", "BORA"],
+        "sobre": "Local onde ocorrem apresentações artísticas e confraternizações",
+        "endereço":"R. Elis Regina - Cidade Universitária, Campinas - SP, 13083-859",
+        "telefone": ["+55 19 3521.1811", "+55 19 3521.1816", "+55 19 99606.8615 (Whatsapp)"],
+        "email": "falepref@unicamp.br"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.0704755892884,-22.81629795184691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 4,
+        "tipo": "lazer",
+        "nome": "PRAÇA DA PAZ",
+        "locais_Proximos": ["FEA"],
+        "sobre": "Praça arborizada utilizada para atividades e eventos ao ar livre. Possui aparelhos para realizar exercícios físicos e palco em formato de arena.",
+        "endereço":"R. Monteiro Lobato - Cidade Universitária, Campinas - SP, 13083-873",
+        "telefone": [],
+        "horario": ""
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.067732628021304, -22.822420464552664]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "key": 5,
+        "tipo": "lazer",
+        "nome": "Gaia - Galeria de arte",
+        "locais_Proximos": ["BC"],
+        "sobre": "Local onde ocorrem exposições artísticas",
+        "endereço":"Praça, R. Sérgio Buarque de Holanda, Campinas - SP, 13083-859",
+        "telefone": ["(19) 3521-7453"],
+        "horario": ""
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -47.071490397491885, -22.816550602419372]
+      }
+    }
+  ]
+}

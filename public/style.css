@@ -1,0 +1,39 @@
+@layer framework;
+
+* {
+    
+    box-sizing: border-box;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+@layer utilities {
+    .perfil-ctd{
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(238, 107, 107, 0.3);
+    }
+    .btn{
+        margin: 0.1rem;
+        border-radius: 1rem;
+    }
+    .btn-primary {
+        background-color: #ee6b6b;
+    }
+
+    .btn-secondary {
+        background-color: #1d1d2b;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0.2rem;
+        margin-bottom: 0.2rem;
+    }
+
+    
+}
